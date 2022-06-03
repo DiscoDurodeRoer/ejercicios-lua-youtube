@@ -1,0 +1,7 @@
+9. Pedir un numero por teclado e indicar que numero hemos escrito
+
+10. Pedir un nombre por teclado y saludarte.
+
+11. Pedir un numero por teclado si ese número es mayor o menor que 100
+
+12. Generar un número aleatorio entre 1 y 10

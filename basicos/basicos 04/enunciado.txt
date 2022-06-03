@@ -1,0 +1,3 @@
+13. Pedir numeros hasta que nos den un -1 y contar el numero de numeros pedidos.
+
+14. Pedir una frase por teclado y mostrar caracter a caracter.

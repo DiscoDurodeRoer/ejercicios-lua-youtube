@@ -1,0 +1,5 @@
+15. Juguemos a adivina un numero, el usuario debe ir escribiendo numeros y debe acertar el numero que nosotros hemos generado aleatoriamente entre 1 y 100.
+
+Cuando el usuario elige un numero, debemos indicarle si el que escribio es mayor o menor que el que debe acertar.
+
+Tiene 5 intentos, si acaba esos 5 intentos sin acertar, el usuario pierde.

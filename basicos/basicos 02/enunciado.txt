@@ -1,0 +1,7 @@
+5. Muestra los numero del 1 al 100
+
+6. Muestra los numeros del 1 al 100, pero solo aquellos que sean pares
+
+7. Muestra los numeros del 1 al 100, pero solo aquellos que sean pares y divisibles entre 3
+
+8. Calcula la suma de 1 a N, N sera una variable creada por ti

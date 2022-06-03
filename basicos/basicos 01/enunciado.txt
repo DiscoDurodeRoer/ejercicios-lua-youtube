@@ -1,0 +1,7 @@
+1. Imprimir hola mundo
+
+2. Escribe tu nombre en una variable y saludate ("hola <tu nombre>")
+
+3. Crear dos variables e intercambiar los valores
+
+4. Crear una variable numerica e indicar si es par o no.
