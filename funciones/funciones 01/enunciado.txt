@@ -1,0 +1,6 @@
+﻿1. Función que muestre hola mundo
+
+2. Función que indique si un numero es mayor que otro 
+(1=num1 es mayor, 0=son iguales, -1=num2 es mayor)
+
+3. Función genere un numero aleatorio entre dos numeros pasados por parametro

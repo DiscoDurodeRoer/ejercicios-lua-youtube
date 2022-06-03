@@ -1,0 +1,3 @@
+4. Función que devuelva el factorial de un número.
+
+5. Función que devuelva la suma de 1 a un numero pasado por parametro.

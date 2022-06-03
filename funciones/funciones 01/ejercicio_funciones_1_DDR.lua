@@ -1,0 +1,4 @@
+
+require "funciones"
+
+holaMundo()
