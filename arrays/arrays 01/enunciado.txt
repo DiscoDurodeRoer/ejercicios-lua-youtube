@@ -1,0 +1,5 @@
+1. rellenar un array de 1 a 10
+
+2. rellenar un array con los 10 primeros pares
+
+3. rellenar un array con 10 aleatorios (usar funcion)

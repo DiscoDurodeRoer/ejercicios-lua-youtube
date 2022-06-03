@@ -1,0 +1,1 @@
+4. Dado un array de numeros, saca el suma, media, suma de los pares, suma de los impares, el numero mayor y menor de un array.
